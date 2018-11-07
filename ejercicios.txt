@@ -1,0 +1,26 @@
+Realizar miniespecificacion para cada ejercicio
+
+Ejercicio 1
+
+Las siguientes son las edades de un conjunto de estudiantes:
+[10,18,19,11,20,21,16,15,11,12]
+Se desea encontrar el promedio de edades, solo de las edades mayores o iguales a 16
+
+Ejercicio 2
+Las siguientes son los promedios finales de evaluación de docentes:
+colegio1 denominado Bolivar:
+[15, 16.5, 17, 19, 20, 19, 10, 16.4, 15.1, 10]
+colegio2 denominado Sur:
+[14, 11.5, 17.2, 18, 19, 17, 20, 19, 19.1, 8]
+
+Se desea determinar el colegio con mejor promedio de sus docentes, considerar que los promedios de cada colegio son únicamente con los valores mayores o iguales a 16.5
+
+Ejercicio 3
+
+Las siguientes son los promedios finales de evaluación de docentes:
+colegio1 denominado Bolivar:
+[15, 16.5, 17, 19, 20, 19, 10, 16.4, 15.1, 10]
+colegio2 denominado Sur:
+[14, 11.5, 17.2, 18, 19, 17, 20, 19, 19.1, 8]
+
+Se desea determinar el promedio de final de todos los docentes de los dos colegios
